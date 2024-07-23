@@ -1,1 +1,2 @@
-# ElectricityBillingSystem
+# ElectricityBillingSystem                 
+I've developed an Electricity Billing System using Java Core, Swing, JDBC, and MySQL. This system automates the billing process for the electricity department, ensuring accurate calculation of units consumed and corresponding charges. By digitizing bill records, it eliminates the need for paper bills and manual user tracking. The system also automatically calculates fines, streamlining the administrative process.
